@@ -1,0 +1,5 @@
+{
+    "commandTimeInterval": 0.5,
+    "maxBackwardSpeed": 5.0,
+    "maxForwardSpeed": 25.0
+}
